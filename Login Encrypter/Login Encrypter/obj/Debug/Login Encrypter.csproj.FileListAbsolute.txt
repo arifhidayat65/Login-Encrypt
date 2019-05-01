@@ -1,0 +1,20 @@
+c:\users\lee yurani\documents\visual studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\Login Encrypter.exe.config
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\Login Encrypter.exe
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\Login Encrypter.pdb
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\EntityFramework.dll
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\EntityFramework.xml
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login Encrypter.csprojResolveAssemblyReference.cache
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login_Encrypter.Admin.resources
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login_Encrypter.Login.resources
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login_Encrypter.Main.resources
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login_Encrypter.Properties.Resources.resources
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login_Encrypter.Register.resources
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login Encrypter.csproj.GenerateResource.Cache
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login Encrypter.exe
+C:\Users\Lee Yurani\Documents\Visual Studio 2015\Projects\Login Encrypter\Login Encrypter\obj\Debug\Login Encrypter.pdb
